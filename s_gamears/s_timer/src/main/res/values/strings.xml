@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">s_timer</string>
+    <string name="t1">start</string>
+    <string name="t2">stop</string>
+    <string name="t3">short/long</string>
+    <string name="t4">timer</string>
+    <string name="hello_world">Hello World</string>
+</resources>

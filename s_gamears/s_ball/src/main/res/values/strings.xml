@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">s_gamears</string>
+    <string name="b1">Кнопки</string>
+    <string name="b2">Игра</string>
+    <string name="t33">3x3</string>
+    <string name="t55">5x5</string>
+    <string name="t10">10x10</string>
+    <string name="t_check">Разные картинки</string>
+    <string name="t1">укажите размер</string>
+    <string name="t2">Вернуться</string>
+</resources>

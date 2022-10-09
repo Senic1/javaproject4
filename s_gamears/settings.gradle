@@ -1,0 +1,14 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "s_gamears"
+include ':s_ball'
+include ':s_starikars'
+include ':s_timer'
+include ':s_timer_movears'
+include ':touch_cardars'
